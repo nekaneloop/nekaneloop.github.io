@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Glacial Indifference';
     src:
-      url('https://nekaneloop.github.io/Folder/GlacialIndifference-Bold') format('truetype');
+      url('https://nekaneloop.github.io/Folder/GlacialIndifference-Bold.woff') format('truetype');
     font-weight: bold;
     font-style: normal;
   }
@@ -9,7 +9,7 @@
   @font-face {
     font-family: 'Glacial Indifference';
     src:
-      url('https://nekaneloop.github.io/Glacial/Folder/GlacialIndifference-Regular') format('truetype');
+      url('https://nekaneloop.github.io/Glacial/Folder/GlacialIndifference-Regular.woff') format('truetype');
     font-weight: normal;
     font-style: normal;
   }
